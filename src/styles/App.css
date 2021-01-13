@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 10px;
+  font-family: 'Cabin', sans-serif;
+}
+
+main {
+  background-color: rgb(18, 18, 18);
+  color: white;
+}
